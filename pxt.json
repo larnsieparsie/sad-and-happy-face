@@ -1,5 +1,6 @@
 {
     "name": "sad and happy face",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
